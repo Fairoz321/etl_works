@@ -88,7 +88,7 @@ def file_db_duplicate_validation():
         except Exception as e:
 
             logger.error(
-                f"❌ Error checking duplicates "
+                f" Error checking duplicates "
                 f"in {tgt_table}: {e}"
             )
 
