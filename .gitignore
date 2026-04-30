@@ -2,5 +2,5 @@
 
 *.log
 
-data/*.csv
-data/*.xlsx
+#data/*.csv
+#data/*.xlsx
