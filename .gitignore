@@ -1,6 +1,10 @@
 .env
 
 *.log
+__pycache__/
+*.pyc
+.env
+reports/
 
 #data/*.csv
 #data/*.xlsx
